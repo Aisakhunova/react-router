@@ -1,0 +1,16 @@
+.task {
+  display: flex;
+  padding: 15px;
+  border: 2px solid rgb(209, 215, 22);
+  margin-top: 15px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  color: white;
+  width: 800px;
+  height: 60px;
+}
+
+strong {
+  color: white;
+}

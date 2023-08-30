@@ -1,0 +1,12 @@
+.MyButton {
+  width: 120px;
+  height: 40px;
+  border: 2px solid rgb(209, 215, 22);
+  color: black;
+  background-color: rgb(209, 215, 22);
+}
+
+.MyButton:hover {
+  background-color: white;
+  color: black;
+}
